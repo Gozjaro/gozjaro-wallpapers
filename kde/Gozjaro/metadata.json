@@ -1,0 +1,13 @@
+{
+    "name" : "Gozjaro",
+    "description" : "Official Gozjaro wallpapers (1920x1080, light and dark sets)",
+    "author" : "Gozjaro <gozjaro@freelists.org>",
+    "license" : "MIT",
+    "settings" : [
+        {
+            "key" : "generalImageImage",
+            "type" : "WallpaperImage",
+            "value" : "gozjaro-emblem-dark.png"
+        }
+    ]
+}

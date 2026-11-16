@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<background>
+  <oxygen name="Gozjaro" color="#1e1e2e"/>
+  <show-sizes>1</show-sizes>
+  <show-preview>1</show-preview>
+  <static>
+    <filename>/usr/share/backgrounds/gozjaro/gozjaro-emblem-dark.png</filename>
+    <type>0</type>
+    <color>#eff1f5</color>
+  </static>
+  <static>
+    <filename>/usr/share/backgrounds/gozjaro/gozjaro-emblem-light.png</filename>
+    <type>0</type>
+    <color>#eff1f5</color>
+  </static>
+  <static>
+    <filename>/usr/share/backgrounds/gozjaro/gozjaro-peaks-dark.png</filename>
+    <type>0</type>
+    <color>#eff1f5</color>
+  </static>
+  <static>
+    <filename>/usr/share/backgrounds/gozjaro/gozjaro-peaks-light.png</filename>
+    <type>0</type>
+    <color>#eff1f5</color>
+  </static>
+  <static>
+    <filename>/usr/share/backgrounds/gozjaro/gozjaro-ribbons-dark.png</filename>
+    <type>0</type>
+    <color>#eff1f5</color>
+  </static>
+  <static>
+    <filename>/usr/share/backgrounds/gozjaro/gozjaro-ribbons-light.png</filename>
+    <type>0</type>
+    <color>#eff1f5</color>
+  </static>
+  <static>
+    <filename>/usr/share/backgrounds/gozjaro/gozjaro-dusk-dark.png</filename>
+    <type>0</type>
+    <color>#eff1f5</color>
+  </static>
+  <static>
+    <filename>/usr/share/backgrounds/gozjaro/gozjaro-dusk-light.png</filename>
+    <type>0</type>
+    <color>#eff1f5</color>
+  </static>
+</background>
