@@ -1,22 +1,25 @@
 # gozjaro-wallpapers
 
-Gozjaro 官方壁纸（1920×1080，PNG）。4 组 × 亮/暗各一张：
+Official Gozjaro wallpapers (1920×1080, PNG). 4 sets, light/dark each:
 
-- `emblem` — 狗头徽记
-- `peaks` — 雪山 + 极光
-- `ribbons` — 丝带（浅色）
-- `dusk` — 城市黄昏
+- `emblem` — the gozjaro dog-head mark
+- `peaks` — snowy peaks with pink/blue aurora
+- `ribbons` — ribbons (light theme)
+- `dusk` — city at dusk
 
-## 安装布局（gozpak 配方 / 手工安装）
+## Install layout (gozpak recipe / manual)
 
 ```
-/usr/share/backgrounds/gozjaro/gozjaro-*.png      # 壁纸本体（Xfce/GTK 直接读这里）
-/usr/share/gnome-background-properties/gozjaro.xml # GNOME（本仓 gnome/）
-/usr/share/wallpapers/Gozjaro/                     # KDE（本仓 kde/Gozjaro/，
-                                                   # 安装时把 PNG 拷进 contents/images/）
+/usr/share/backgrounds/gozjaro/gozjaro-*.png      # the wallpapers (Xfce/GTK read this dir)
+/usr/share/gnome-background-properties/gozjaro.xml # GNOME (this repo's gnome/)
+/usr/share/wallpapers/Gozjaro/                     # KDE (this repo's kde/Gozjaro/,
+                                                   # recipe copies the PNGs into contents/images/)
 ```
 
-各 DE 的默认指向：GNOME 装 xml 即在"背景"里出现；KDE 装到 /usr/share/wallpapers/ 即被 Plasma 识别；
-Xfce/其他 DE 用文件管理器或 xfconf 指到 /usr/share/backgrounds/gozjaro/ 即可。
+Per-DE defaults: GNOME picks the xml up in Background settings once installed; KDE/Plasma recognizes
+anything under /usr/share/wallpapers/; on Xfce and other DEs point the file manager or xfconf
+channel at /usr/share/backgrounds/gozjaro/.
 
 License: MIT
+
+[简体中文](README.zh-cn.md)
